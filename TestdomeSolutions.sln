@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorStream", "Net47\De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedSearch", "Net47\SortedSearch\SortedSearch.csproj", "{9B11A97C-99D2-4052-BCB7-4E10D1756929}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainComposition", "Net47\TrainComposition\TrainComposition.csproj", "{582E1807-19C6-4BB4-ACF1-84F22A680BCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,10 @@ Global
 		{9B11A97C-99D2-4052-BCB7-4E10D1756929}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B11A97C-99D2-4052-BCB7-4E10D1756929}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B11A97C-99D2-4052-BCB7-4E10D1756929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{582E1807-19C6-4BB4-ACF1-84F22A680BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{582E1807-19C6-4BB4-ACF1-84F22A680BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{582E1807-19C6-4BB4-ACF1-84F22A680BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{582E1807-19C6-4BB4-ACF1-84F22A680BCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -100,6 +106,7 @@ Global
 		{24E1AAAE-8202-447B-BDAD-CAC2CE2283ED} = {3C5510A4-0CB3-4BD5-A348-553C08BF7D45}
 		{495DC6D9-9C15-4AB8-B594-63C8158AF1AC} = {3C5510A4-0CB3-4BD5-A348-553C08BF7D45}
 		{9B11A97C-99D2-4052-BCB7-4E10D1756929} = {3C5510A4-0CB3-4BD5-A348-553C08BF7D45}
+		{582E1807-19C6-4BB4-ACF1-84F22A680BCC} = {3C5510A4-0CB3-4BD5-A348-553C08BF7D45}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8832C0DA-CBEF-4AD6-8027-2BBE02A30182}
